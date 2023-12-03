@@ -29,5 +29,3 @@
 
 ## 不想每天开电脑学习，可以配置 techxuexi python 在服务器。  https://github.com/TechXueXi/TechXueXi
 
-
-学习强国JS脚本
